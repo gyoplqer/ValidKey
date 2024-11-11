@@ -22,7 +22,6 @@ gunicorn==23.0.0
 h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.2
-huggingface-hub==0.24.7
 idna==3.8
 imageio==2.1.2
 instagrapi==2.1.2
