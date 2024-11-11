@@ -77,7 +77,6 @@ sympy==1.13.2
 threadpoolctl==3.5.0
 tokenizers==0.19.1
 tornado==6.4.1
-tqdm==4.66.5
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
